@@ -1,0 +1,9 @@
+{
+  "name": "Versatile Drag Tiling",
+  "description": "Splits existing tiling zones to make more use of the multi window screen",
+  "uuid": "VersatileDragTiling@CyberGear",
+  "shell-version": [
+    "44"
+  ],
+  "url": 
+}
